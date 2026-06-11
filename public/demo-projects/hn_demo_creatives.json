@@ -1,0 +1,64 @@
+{
+  "title": "Demo Swipe Project",
+  "brand": "Example coaching brand",
+  "voice": "clear, helpful, simple",
+  "totals": {
+    "creatives": 2,
+    "scenes": 6,
+    "batches": {
+      "demo": 2
+    }
+  },
+  "creatives": [
+    {
+      "uid": "swipe-demo-001",
+      "source_id": "swipe-demo-001",
+      "displayName": "SW01",
+      "angle": "clarity beats more effort",
+      "swiped_from": "demo",
+      "num_scenes": 3,
+      "scenes": [
+        {
+          "scene": 1,
+          "words": 55,
+          "text": "You can work harder on your content and still lose people if the idea is fuzzy. The first scene has one job: make the viewer instantly recognize a problem they already feel."
+        },
+        {
+          "scene": 2,
+          "words": 54,
+          "text": "The second scene explains the shift. Not ten lessons, not a full framework, just the one change that makes the problem feel solvable and the promise feel believable."
+        },
+        {
+          "scene": 3,
+          "words": 50,
+          "text": "The final scene gives one next step. A good CTA should feel like relief, not pressure. Tell them exactly what to do and why doing it now helps."
+        }
+      ]
+    },
+    {
+      "uid": "swipe-demo-002",
+      "source_id": "swipe-demo-002",
+      "displayName": "SW02",
+      "angle": "test one variable",
+      "swiped_from": "demo",
+      "num_scenes": 3,
+      "scenes": [
+        {
+          "scene": 1,
+          "words": 53,
+          "text": "If every new ad changes everything, your results cannot teach you much. A clean test keeps the offer steady and changes one part of the creative recipe."
+        },
+        {
+          "scene": 2,
+          "words": 54,
+          "text": "Try three hooks for the same angle, or three pain points for the same hook. Now you are learning what moved the result instead of guessing from a pile of mixed changes."
+        },
+        {
+          "scene": 3,
+          "words": 49,
+          "text": "Use a small board to track hook, angle, pain point, promise, and CTA. That is enough structure to improve without turning creative testing into a spreadsheet headache."
+        }
+      ]
+    }
+  ]
+}

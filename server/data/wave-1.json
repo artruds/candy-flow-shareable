@@ -1,0 +1,96 @@
+{
+  "wave": 1,
+  "label": "Demo Project",
+  "coach": "Demo Coach",
+  "gender": "neutral",
+  "wrapper": "",
+  "wrapperPreset": "demo",
+  "avatarId": "demo",
+  "avatarName": "Demo Avatar",
+  "avatarHue": 190,
+  "lengthSec": 15,
+  "concurrency": 3,
+  "uiOrder": ["demo-001", "demo-002", "demo-003"],
+  "beats": {
+    "demo-001-a": {
+      "beatId": "demo-001-a",
+      "scriptId": "demo-001",
+      "letter": "A",
+      "text": "You keep rewriting the same offer because it never feels quite clear enough. The problem is not your work ethic. The problem is that your message is trying to say five things at once, so the right person never knows what to remember.",
+      "status": "done",
+      "path": null
+    },
+    "demo-001-b": {
+      "beatId": "demo-001-b",
+      "scriptId": "demo-001",
+      "letter": "B",
+      "text": "The fix is to choose one sharp promise, one real pain point, and one next step. When each scene carries one job, the ad stops feeling like a lecture and starts feeling like a clear little path your buyer can follow.",
+      "status": "done",
+      "path": null
+    },
+    "demo-001-c": {
+      "beatId": "demo-001-c",
+      "scriptId": "demo-001",
+      "letter": "C",
+      "text": "I made a free breakdown that shows you how to turn a messy offer into three simple scenes. Click below, watch it today, and use the template before you write another ad from scratch.",
+      "status": "done",
+      "path": null
+    },
+    "demo-002-a": {
+      "beatId": "demo-002-a",
+      "scriptId": "demo-002",
+      "letter": "A",
+      "text": "If people understand your product but still do not buy, your ad may be explaining too early. A strong hook does not start with every detail. It starts with the moment your buyer already recognizes from their own life.",
+      "status": "pending",
+      "path": null
+    },
+    "demo-002-b": {
+      "beatId": "demo-002-b",
+      "scriptId": "demo-002",
+      "letter": "B",
+      "text": "Once they feel seen, then you can introduce the idea. Show them the small mistake, the better way, and why the promise now feels believable. That order makes the script feel useful instead of pushy.",
+      "status": "pending",
+      "path": null
+    },
+    "demo-002-c": {
+      "beatId": "demo-002-c",
+      "scriptId": "demo-002",
+      "letter": "C",
+      "text": "Use the free worksheet below to map one buyer problem into a clean three-scene creative. It takes ten minutes, and it gives your next ad a much simpler starting point.",
+      "status": "pending",
+      "path": null
+    },
+    "demo-003-a": {
+      "beatId": "demo-003-a",
+      "scriptId": "demo-003",
+      "letter": "A",
+      "text": "Most creators do not need more random ideas. They need a small testing system. When every ad changes the hook, the promise, the CTA, and the angle at once, you cannot tell what actually helped.",
+      "status": "pending",
+      "path": null
+    },
+    "demo-003-b": {
+      "beatId": "demo-003-b",
+      "scriptId": "demo-003",
+      "letter": "B",
+      "text": "Keep the offer steady and change one thing at a time. Try the same angle with three hooks, or the same hook with three pain points. Now the results teach you something instead of just making noise.",
+      "status": "pending",
+      "path": null
+    },
+    "demo-003-c": {
+      "beatId": "demo-003-c",
+      "scriptId": "demo-003",
+      "letter": "C",
+      "text": "I put together a simple testing board you can copy for your next batch. Click below, grab the template, and start learning from each creative instead of guessing what won.",
+      "status": "pending",
+      "path": null
+    }
+  },
+  "counts": {
+    "pending": 6,
+    "creating": 0,
+    "generating": 0,
+    "downloading": 0,
+    "done": 3,
+    "failed": 0
+  }
+}
