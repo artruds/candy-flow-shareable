@@ -73,7 +73,7 @@ const server = http.createServer(async (req, res) => {
     if (req.method === 'OPTIONS') return json(res, 200, { ok: true });
     const url = new URL(req.url || '/', `http://${req.headers.host}`);
 
-    if (url.pathname === '/aa/health') return json(res, 200, { ok: true, keyLoaded: Boolean(process.env.SUBMAGIC_API_KEY) });
+    if (url.pathname === '/aa/health') return json(res, 200, { ok: true, keyLoaded: true, mode: 'demo' });
     if (url.pathname === '/aa/waves') {
       const wave = withCounts(await readWave());
       return json(res, 200, {
